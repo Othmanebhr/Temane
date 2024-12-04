@@ -1,6 +1,6 @@
-# Temane Introduction
+# **Temane Introduction**
 
-## Language
+## **Language**
 > C
 
 ## Learning
