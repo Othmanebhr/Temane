@@ -3,9 +3,7 @@
 ## **Language**
 > C
 
-## Learning
+## **Learning**
 > Javascript
-
 > React
-
 > React Nativ 
