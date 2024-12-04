@@ -1,14 +1,14 @@
 # **Temane Introduction**
 
 ## **Language**
-> C
+> - C
 
 ## **Learning**
-> Javascript
+> - Javascript
 > 
-> React
+> - React
 > 
-> React Nativ 
+> - React Nativ 
 
 ## <ins>Project</ins>
 Working on a gym app.
