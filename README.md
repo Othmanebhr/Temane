@@ -1,7 +1,7 @@
 # Temane Introduction
 
 ## Language
-> c
+> C
 
 ## Learning
 > Javascript
