@@ -11,6 +11,7 @@
 > React Nativ 
 
 ## <ins>Project</ins>
-Working on a gym app
+Working on a gym app.
 
-Student at 42 Paris, Learning
+
+I am a student at 42 Paris, learning programming since May 2024.
