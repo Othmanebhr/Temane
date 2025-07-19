@@ -16,8 +16,8 @@
 > - Python
 
 ## <ins>Project</ins>
-Developing a gym tracking app focused on performance and consistency.
-Currently working on a smoking cessation app to support users in their journey to quit smoking.
+> - Developing a gym tracking app focused on performance and consistency.
+> -Currently working on a smoking cessation app to support users in their journey to quit smoking.
 
 
 I am a student at 42 Paris, learning programming since May 2024.
