@@ -2,16 +2,22 @@
 
 ## **Language**
 > - C
+> - C++
 
 ## **Learning**
 > - Javascript
 > 
 > - React
 > 
-> - React Nativ 
+> - React Nativ
+>
+> - TypeScript
+>
+> - Python
 
 ## <ins>Project</ins>
-Working on a gym app.
+Developing a gym tracking app focused on performance and consistency.
+Currently working on a smoking cessation app to support users in their journey to quit smoking.
 
 
 I am a student at 42 Paris, learning programming since May 2024.
