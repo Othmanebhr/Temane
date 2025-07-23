@@ -20,4 +20,4 @@
 > - Currently working on a smoking cessation app to support users in their journey to quit smoking.
 
 
-I am a student at 42 Paris, learning programming since May 2024.
+Student at 42 Paris, learning programming since May 2024.
