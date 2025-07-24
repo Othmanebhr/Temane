@@ -15,7 +15,7 @@
 >
 > - Python
 
-## <ins>Project</ins>
+## Project
 > - Developing a gym tracking app focused on performance and consistency.
 > - Currently working on a smoking cessation app to support users in their journey to quit smoking.
 
